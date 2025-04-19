@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+/* Spartan design system import */
+@import '@spartan-ng/brain/hlm-tailwind-preset.css';@
